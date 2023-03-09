@@ -42,3 +42,8 @@ Sou muito fissurado por tecnologia, e sou muito perfeccionista tenho um dom em a
   
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdsonjuniorP13&bg_color=080808&color=f643f9&line=4ecd4c&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ##
+  
+  ![snake gif](https://github.com/EdsonJuniorP13/EdsonJuniorP13/blob/output/github-contribution-grid-snake.svg)
+
