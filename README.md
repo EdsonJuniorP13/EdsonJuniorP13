@@ -34,7 +34,7 @@ Sou muito fissurado por tecnologia, e sou muito perfeccionista tenho um dom em a
   <a href = "mailto:edsonsjuniorc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edson-junior-ba1418143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://app.slack.com/client/TMDDFEPFU/D04MYCDF0V9/thread/C04MU9QV0KC-1677623306.154759"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
-  
-    
-    
+     
 </div>
+
+![snake gif](https://github.com/EdsonJuniorP13/EdsonJuniorP13/blob/output/github-contribution-grid-snake.svg)
