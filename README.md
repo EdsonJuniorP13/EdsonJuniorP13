@@ -36,6 +36,8 @@ Sou muito fissurado por tecnologia, e sou muito perfeccionista tenho um dom em a
     <a href="https://app.slack.com/client/TMDDFEPFU/D04MYCDF0V9/thread/C04MU9QV0KC-1677623306.154759"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
      
 </div>
+  
+  
 ##
   
   
