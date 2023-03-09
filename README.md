@@ -36,3 +36,7 @@ Sou muito fissurado por tecnologia, e sou muito perfeccionista tenho um dom em a
     <a href="https://app.slack.com/client/TMDDFEPFU/D04MYCDF0V9/thread/C04MU9QV0KC-1677623306.154759"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
      
 </div>
+##
+  
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdsonjuniorP13&bg_color=080808&color=f643f9&line=4ecd4c&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
